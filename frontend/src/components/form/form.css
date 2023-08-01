@@ -1,0 +1,31 @@
+
+.container_form h2{
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    padding: 10px;
+    cursor: pointer;
+    align-items: center;
+    color: #fff;
+    background-color: #575757;
+    width: 200px;
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+.cadastro_album{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 32px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+}
+.cadastro_album:hover{
+   transform: scale(1.1);
+   margin-right: 10px;
+   border: solid 1px;
+   border-radius: 8px;
+}

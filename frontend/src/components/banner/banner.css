@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
+h1{
+    margin: 18px;
+    padding: 10px;
+    font-weight:normal;
+    font-size: 40px;
+}
+img{
+    margin: 18px;
+    padding: 10px;
+
+}

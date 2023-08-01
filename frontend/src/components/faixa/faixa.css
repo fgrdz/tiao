@@ -1,0 +1,15 @@
+.musicas{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 48px;
+    margin-right: 10px;
+    
+}
+.delete{
+    
+    margin-right: 10px;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    background-color: #575757;
+}
