@@ -1,8 +1,8 @@
-#tiao
-##Descrição do Projeto
+# tiao
+## Descrição do Projeto
 Este projeto é um aplicativo web de gerenciamento de álbuns musicais. Ele permite que os usuários visualizem, adicionem e excluam álbuns, bem como adicionem e excluam faixas musicais dentro de cada álbum.
 
-##Funcionalidades de CRUD
+## Funcionalidades de CRUD
 O projeto possui as seguintes funcionalidades de CRUD (Create, Read, Update, Delete):
 
 - Criar Álbum: Os usuários podem adicionar novos álbuns, fornecendo o título do álbum e o ano de lançamento.
